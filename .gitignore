@@ -11,3 +11,6 @@ __pycache__
 
 #project files
 .spyproject
+
+#model files 
+*.pt
