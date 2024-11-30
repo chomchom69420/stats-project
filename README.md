@@ -1,7 +1,7 @@
 # A study of uncertainty in Neural Networks for missing and out-of-range data on different datasets
 ## Dependancies
 
-Project report: [Link]() 
+Project report: [Link](https://drive.google.com/file/d/1L_-IjsnJaDvPYhKpospb6081J6jsFtSC/view?usp=sharing) 
 
 Youtube video: [Link](https://www.youtube.com/watch?v=YRfp2EQj_YM)
 
