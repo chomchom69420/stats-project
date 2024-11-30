@@ -1,6 +1,11 @@
 # A study of uncertainty in Neural Networks for missing and out-of-range data on different datasets
 ## Dependancies
 
+Project report: [Link]() 
+
+Youtube video: [Link](https://www.youtube.com/watch?v=YRfp2EQj_YM)
+
+
 The code depends on: 
 
 - numpy 
